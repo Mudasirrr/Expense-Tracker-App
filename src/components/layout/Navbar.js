@@ -7,7 +7,7 @@ export default class Navbar extends Component {
             <>
             <nav>
               <div className="nav-wrapper show-on-small show-on-medium-and-down nav-wrapper  "style={{background:"#6200ee"}}>
-                <Link to="/" className="brand-logo">Expense Tracker</Link>
+                <Link to="/" className="brand-logo show-on-medium-and-down">Expense Tracker</Link>
                 <ul className="right ">
                     
                 <li><Link  to="/ybalance">Your Balance</Link></li>
