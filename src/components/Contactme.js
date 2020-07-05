@@ -9,7 +9,7 @@ export default class Contactme extends Component {
                         <div className="card"style={{background:'greenl'}}>
                             <div className="card-image">
                                 
-                        <img src={require('./mdsr.jpg')} height=''  />
+                        <img src={require('./mdsr.jpg')} height=''alt='Image..'  />
                            <h4>
                                 Mudasir Hussain
                                     </h4>
