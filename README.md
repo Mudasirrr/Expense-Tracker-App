@@ -1,6 +1,6 @@
 # Expense Tracker (React)
 
- [Live Demo](http://expense-tracker-by-mudasir.surge.sh/p).
+ [Live Demo](http://expense-tracker-by-mudasir.surge.sh/).
 
 ## Available Scripts
 
