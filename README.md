@@ -1,6 +1,6 @@
 # Expense Tracker (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Live Demo](http://expense-tracker-by-mudasir.surge.sh/p).
 
 ## Available Scripts
 
